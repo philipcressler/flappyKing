@@ -7,3 +7,11 @@ in Swift and created for iOS 8. Sorry for the terrible quality gif.
 
 ![Demo](https://github.com/philipcressler/flappyKing/blob/master/demoflappyKing.gif)
 
+
+#Author
+
+Hit me up [@philipcressler](https://www.twitter.com/philipcressler)
+
+#License
+
+MIT License
